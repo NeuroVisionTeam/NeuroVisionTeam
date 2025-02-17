@@ -24,8 +24,8 @@ Explore our repositories to see how we’ve applied our skills to real-world cha
 
 #### **Get in Touch**  
 We’re always excited to collaborate on new projects, share ideas, or connect with like-minded professionals. Feel free to reach out to us via:  
-- **Email**: [Your Team Email](mailto:teamNeuroVision@gmail.com)  
+- **Email**: [teamNeuroVision@gmail.com](mailto:teamNeuroVision@gmail.com)  
 - **LinkedIn**: [NeuroVision Team](https://www.linkedin.com/in/neurovision-team/)
-- **Website**: Your Website URL comming soon...
+- **Website**:  Website page comming soon...
 
 Let’s build the future, one line of code at a time.  
