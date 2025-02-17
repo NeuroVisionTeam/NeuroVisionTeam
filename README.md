@@ -1,7 +1,7 @@
 ### **NeuroVisionTeam**  
 **Precision in Code, Clarity in Vision**  
 
-Welcome to **NeuroVisionTeam**, a dynamic trio of engineers—Hamid, Faraz, and Helya—specializing in **Python programming** and **image processing**. With a shared passion for innovation and problem-solving, we combine our technical expertise to deliver cutting-edge solutions that bridge the gap between code and vision.  
+Welcome to **NeuroVisionTeam**, a dynamic trio of engineers specializing in **Python programming** and **image processing**. With a shared passion for innovation and problem-solving, we combine our technical expertise to deliver cutting-edge solutions that bridge the gap between code and vision.  
 
 #### **What We Do**  
 - **Python Development**: Crafting efficient, scalable, and maintainable code for a wide range of applications.  
